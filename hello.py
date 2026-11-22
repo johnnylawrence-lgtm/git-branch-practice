@@ -1,2 +1,2 @@
 def hello():
-    return "Hello from Developer 1!"
+    return "Hello from Developer 1"
